@@ -205,6 +205,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="14"/> [sslmon](https://github.com/firesh/sslmon-mcp) - Domain/HTTPS/SSL domain registration information and SSL certificate monitoring capabilities. Query domain registration and expiration information, and SSL certificate information and validity status for any domain.
 - <img src="https://aiops.drdroid.io/favicon.ico" height="14"/> [Signoz](https://github.com/DrDroidLab/signoz-mcp-server) - Comprehensive integration with [Signoz APIs](https://signoz.io/docs/userguide/apis/) and [documentation](https://signoz.io/docs/) for monitoring, observability, and debugging tasks related to your Signoz instances.
 - <img src="https://avatars.githubusercontent.com/u/174736222?s=200&v=4" height="14"/> [VictoriaMetrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) - Comprehensive integration with [VictoriaMetrics APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances.
+- <img src="https://webaudits.pro/mcp-icon.png" height="14"/> [WebAudits](https://github.com/xcalibur73/webaudits-mcp) - In-browser DOM bloat diagnostics, Largest Contentful Paint subpart tracing, and agentic search bot governance.
 
 <br />
 
